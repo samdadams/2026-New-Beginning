@@ -46,13 +46,15 @@ async function masterSync() {
 
   console.log(`✅ SYNC COMPLETE: ${specsCount} Specs, ${compCount} Companies.`);
 
+  // GIT PUSH
   if (fs.existsSync(path.join(VAULT_PATH, '.git'))) {
     try {
-      execSync('git add . && git commit -m "Auto-sync: Full Spectrum Alignment" && git push');
+      execSync('git add . && git commit -m "Auto-sync: Infrastructure Alignment" && git push');
       console.log('🚀 GITHUB PUSH SUCCESS: VAULT SECURED.');
     } catch (g) { console.log('ℹ️ Git: System Synced.'); }
   }
 
+  // SLACK SIGNAL
   await fetch('https://slack.com/api/chat.postMessage', {
     method: 'POST',
     headers: { 'Authorization': `Bearer ${SLACK_TOKEN.trim()}`, 'Content-Type': 'application/json' },

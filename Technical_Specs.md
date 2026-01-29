@@ -1,6 +1,6 @@
 # 🛠 Technical Specs
 
-*Synced: 29/01/2026, 14:40:36*
+*Synced: 29/01/2026, 14:41:35*
 
 | Tech Name | Spec Summary | Capabilities | Tech Photo |
 | --- | --- | --- | --- |
