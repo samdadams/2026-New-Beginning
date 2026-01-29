@@ -14,7 +14,7 @@ async function masterSync() {
   const VAULT_PATH = process.cwd();
 
   if (!AIRTABLE_TOKEN || !SLACK_TOKEN) {
-    console.log('❌ TOKENS MISSING IN .ENV');
+    console.log('❌ TOKENS MISSING');
     return;
   }
 
