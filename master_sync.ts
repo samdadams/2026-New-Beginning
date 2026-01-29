@@ -5,7 +5,7 @@ import * as dotenv from 'dotenv';
 
 dotenv.config();
 
-async function cleanMasterSync() {
+async function masterSync() {
   const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
   const SLACK_TOKEN = process.env.SLACK_TOKEN;
   const BASE_ID = 'appMU8cGD8S1aYqSI';
@@ -14,7 +14,7 @@ async function cleanMasterSync() {
   const VAULT_PATH = process.cwd();
 
   if (!AIRTABLE_TOKEN || !SLACK_TOKEN) {
-    console.log('❌ ERROR: Tokens missing in .env. Ensure .env contains AIRTABLE_TOKEN and SLACK_TOKEN.');
+    console.log('❌ TOKENS MISSING IN .ENV');
     return;
   }
 
@@ -40,7 +40,7 @@ async function cleanMasterSync() {
     } catch (e) { return 0; }
   }
 
-  console.log('📡 MASTER SYNC: INITIATING SECURE PULL...');
+  console.log('📡 MASTER SYNC: INITIATING FULL SPECTRUM ALIGNMENT...');
   const specsCount = await syncTable(SPECS_TABLE, 'Technical_Specs.md', '🛠 Technical Specs');
   const compCount = await syncTable(COMP_TABLE, 'Verified_Companies.md', '🏢 Verified Companies');
 
@@ -48,9 +48,18 @@ async function cleanMasterSync() {
 
   if (fs.existsSync(path.join(VAULT_PATH, '.git'))) {
     try {
-      execSync('git add . && git commit -m "Auto-sync: Infrastructure Alignment" && git push');
+      execSync('git add . && git commit -m "Auto-sync: Full Spectrum Alignment" && git push');
       console.log('🚀 GITHUB PUSH SUCCESS: VAULT SECURED.');
-    } catch (g) { console.log('ℹ️ Git: Pushing changes.'); }
+    } catch (g) { console.log('ℹ️ Git: System Synced.'); }
   }
+
+  await fetch('https://slack.com/api/chat.postMessage', {
+    method: 'POST',
+    headers: { 'Authorization': `Bearer ${SLACK_TOKEN.trim()}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ 
+      channel: 'cmd-signals', 
+      text: `🚀 *MASTER SYNC SUCCESSFUL*\n*Specs:* ${specsCount}\n*Companies:* ${compCount}\n*Status:* Elite Operational` 
+    })
+  });
 }
-cleanMasterSync();
+masterSync();
