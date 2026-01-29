@@ -1,0 +1,9 @@
+# 57. Matthew 6:11 (RSV): "Give us this day our daily bread." In the Course allusion, the
+# "bread" is the peace that God gave the soul.
+# 58. From "The Wise Men," by G.K. Chesterton. In the poem, the home into which Christ is born is a place where there is no deception and where mercy is absolutely ordinary and commonplace. Applied to Jesus' topic of the soul, this means that the soul is a place where there is no deception and where the truth of mercy is its daily bread.
+# 59. Genesis 1:26 (RSV): "Then God said, 'Let us make man in our image, after our likeness."
+# 60. T-1.49.3:2-3: "Denial is not mere negation. It is a positive miscreation."
+
+# But remember this thought: Never underestimate the power of denial. In the service of the right mind, the denial of error frees the mind and reestablishes the freedom of the will. When the will is really free it cannot miscreate because it recognizes only truth.
+# 11 False projection arises out of false denial, not out of its proper use. My own role in the Atonement is one of true projection; that is, I can "project" (or extend) to you the affirmation of truth. 'If you project error to me (or to yourself) you are interfering with the process. "My use of projection, which can also be yours, is not based on faulty denial. But it does involve the very powerful use of the denial of error.
+# 12 The miracle worker is one who accepts my kind of denial and projec-tion, unites his own inherent abilities to deny and project with mine, and imposes them back on himself and others. "This establishes the total lack of threat anywhere. Together we can then work for the real time of peace, which is eternal.

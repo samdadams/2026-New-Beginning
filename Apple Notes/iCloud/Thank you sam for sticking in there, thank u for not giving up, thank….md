@@ -1,0 +1,1 @@
+# Thank you sam for sticking in there, thank u for not giving up, thank you for going forward despite all the setbacks, every time it looked hopeless and just continued trying once again. It did work out, you ended up living your best life and helping millions of people out of hopelessness you inspired.

@@ -1,0 +1,95 @@
+- [ ] Must Complete today 
+- [ ] Here is 10K $ deliver a message that merits $10K - deliver that message within a week - you have just been paid $10k now create a video to deliver that $10k 
+	- [ ] Record 10 more vagus nerve nsdr meditations don’t stop until hit
+	- [ ] 10 abundance practices 
+	- [ ] Complete 1 script for meditation dispenza style https://drive.google.com/drive/folders/1CBKn_C2ebHC7tJGXk8EMreZtW79MO2cO?usp=drive_link
+
+	- [ ] Record by the lake 3 videos have them ready on your phone
+	- [ ] Clear up the  hard drive and decide upon the next record for acim
+	- [ ] Make the next series of acim https://drive.google.com/drive/folders/1hqvHh_VoKepkTfQFQnj1voFh04zx8U_i?usp=sharing
+	- [ ] The intro video script 
+
+	- [ ] Make the intro video 
+	- [x] Complete at least one script for the ultimate meditation
+	- [x] Complete at least one of the listen whenever series 2 or 4 
+- [ ] Hair cream
+- [ ] Kitchen roll
+	- [ ] Finish the script for morning
+	- [ ] Make sure the phone is away from the microphone
+	- [ ] Tom kerin 
+	- [ ] Create the morning rules for decision 
+	- [ ] Add an audio version 2 for premium of the listen easy
+	- [ ] What videos can be uploaded and  deleted from the hdds
+	- [ ] Change the image of the main channel  Upload 1 video per channel 
+	- [ ] Make sure all of the audios for tomorrow are listed with exact location and link for the next day 
+	- [ ] Routine written listed 
+	- [ ] All videos are to be create before leaving (important)
+	- [ ] Audios can be listened to out and edited 
+	- [ ] For the second he leaders me video make it premium
+	- [ ] No phone until 12pm
+	- [ ] Make space upload 1 video, 1 to hand break
+	- [ ] Add music to the drone shots upload 
+	- [ ] The morning recording rules for decision 
+	- [ ] First iterations of the manifestation audios 
+	- [ ] Morning recording  list :
+	- [ ] Make the next audio for meditation channel vagus nerve 2 and improve the thumbnail. 
+	- [ ] Finish the first audio text for the dispense meitation
+	- [ ] Create the 1st 1 hour vipassana and Joe meditation mixed
+	- [ ] Create the vipassana meditation that includes focusing on that I am already healed and the awareness is what we are 
+	- [ ] Make the next series of practices rules for decision
+
+		- [ ] Upload talkie video
+		- [ ] Edit and upload video 1/2 
+		- [ ] Record video 3 talkie series 
+		- [ ] Ai video either make video and post or scrap
+		- [ ] Finish the dharma video and delete videos 
+		- [ ] Add biking videos to background of any videos 
+		- [ ] Question were to put the ice bath videos 
+		- [ ] Check the you are awareness 2 videos on YouTube if uploaded delete 
+		- [ ] How could I improve the talk to me series and what is it for and how does it help the listener each video must contain a snippet of what is coming and how they may be served
+		- [ ] Improve the intro, how is it going to serve the listener 
+		- [ ] Edit from about 3 minutes 
+		- [ ] Do I rerecord the video about bringing the two together take two 
+		- [ ] Make sure the camera is set to record mr 1 -2 
+		- [ ] Tomorrow have 4 scripts ready to record 
+		- [ ] Write a script for the video about my mind holds only what I think with god
+		- [ ] Do a few rehearsals for the talkie series and say why I am recording 
+		- [ ] Finish the vagus nerve upload and make sure there is at least 1 video for the 
+		- [ ] Clean up the ssd drives Cpv!!F02qKjZfX^G
+	- [x] Next vagus nerve meditation
+	- [x] What to do with dung video
+	- [x] Make the tides of tranquility video 
+	- [x] Match the audio with the second video in the talk series and upload tonight 
+	- [x] Remake the bringing the darkness to light my mind holds only what I think with God - listen and remake upstairs 
+
+- [ ] NSDR List 
+	- [x] Desert Oasis 
+	- [x] Make a list of the 10 audios to record for this 
+	- [x] Flowing River
+	- [ ] 2 vagus nerve thumbnails
+	- [ ] Create a list of videos to release 
+	- [ ] Record 3 trigger audios and release them at the same time 
+	- [ ] Make sure that they are linked
+	- [ ] Could there be a trigger audio that can be listened to any time of day. 
+	- [ ] Things to include in each of the audios 2%
+		- [ ] Short intro with the benefits of the practice
+		- [ ] Outro 50%
+- [ ] ACIM List 
+	- [ ] The 6 minute video series idea put into drive and practice
+	- [ ] Listen wherever 2-4 videos by the end of today
+	- [ ] Rehearse the main script videos 
+	- [ ] Add the second amount to be allowed 6.99 GBP
+	- [ ] Do a practice recording of the intro videos 
+	- [ ] Change the thumbnails to 2 videos that are doing well
+
+	- [x] Make a list of the 10 audios to record for this 
+	- [x] Add the hand pan to the meditations
+	- [x] Write a script for asking for support 
+	- [x] You are awareness 
+	- [x] Message Francois about checking the video 
+- [ ] Make a video asking about the series of trigger videos
+- [ ] Ask what would be an amount to receive and what people would be willing to give to support the channel 
+- [ ] Watch the video and implement the 
+- [ ] Complete 4 audios and videos by this morning 
+
+- [x] Send audio to Francois

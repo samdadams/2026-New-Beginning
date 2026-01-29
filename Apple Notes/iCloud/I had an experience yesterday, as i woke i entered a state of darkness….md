@@ -1,0 +1,1 @@
+I know i must still interact and do things in this world and still have things to do in this world, and today emotionally i have been drawn back into this delusion

@@ -1,0 +1,8 @@
+But if many people have given everything they have financially and now are not part of these communites and living with the family they were once told to cut out of their lives, might it happen to you. 
+Jenny as wonderful as she is, is a master at persuasion and manipulation and the reason i wanted no more to do with her is after she used the trick of no private thoughts to relieve my friend of all her bank account. 
+
+This next part I am not going to sugar coat because I am certain that if you define a cult these communities tick the necessary boxes. 
+
+I know we here are to forgive the world see that it is nothing more than a false matrix, slight of hand, but lets say you are walking down the street and you see someone on the floor being kicked. Do you do something or do you walk on by saying it is not real. Or lets say someone you know comes to you begging for help, because you are busy do you turn them away and say its not real anyway?
+I listened to everything David put out for 15 years and I listened to Jenny and Barrett and there is one thing that became abundantly clear after being inside the communities what they use as a maybe an unconscious tactic is this idea of no people pleasing and no private thoughts. Who is pleasing who and who is to the one that keeps there private thoughts. Many times I was open and the leaders were not and it was frustrating and I left as many do feeling like they had sold me a dream and now that dream was gone.
+I know Jenny means well and wants to complete her part in the Atonement but I also think she is a sociopath in the world I see. Do not sell everything and give it to them. This is a trick and you will regret this action like many before you have.

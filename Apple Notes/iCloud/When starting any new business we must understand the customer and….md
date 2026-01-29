@@ -1,0 +1,1 @@
+# When starting any new business we must understand the customer and

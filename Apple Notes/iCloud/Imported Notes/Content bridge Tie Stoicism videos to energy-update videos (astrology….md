@@ -1,0 +1,4 @@
+**Auto-pairing:** When a new Stoic video publishes, the system automatically links it to a **matching energy-update video** (and vice-versa) based on date/planetary theme/keywords.
+**Viewer flow:** At the **end of a Stoic video**, viewers get a clear prompt to **click into the related energy-update** (the “what’s happening now” context). At the **end of the energy-update**, they’re sent to a **practical ‘what to do with this info’ Stoic practice** video.
+**Always connected to your existing library:** The automation should also connect **new uploads to relevant older Stoic videos** so the whole catalog interlinks.
+**Implementation details (auto where possible):** Use upload-time automation to add **descriptions with deep links**, **playlists/series**, and **cards/end screens where feasible** (with caveat that some end-screen actions may still require Studio clicks), so viewers are consistently funneled to the next best video.

@@ -1,0 +1,6 @@
+https://media.discordapp.net/attachments/1097533140630777856/1111234157742403624/chibbs_wide_full_body_image_breaking_bad_inception_male_in_blac_db03cea1-f5a5-4dee-999f-f4f3f228b7de.png?width=1590&height=892
+https://media.discordapp.net/attachments/1097533140630777856/1110952740194091028/chibbs_a_mournful_gathering_inside_a_church._while_the_mourners_0b26790f-42f4-4783-ad96-020229486266.png?width=1590&height=892
+
+3784696671
+
+Ethan church scene 1: https://media.discordapp.net/attachments/1097533140630777856/1111237103485984828/chibbs_wide_full_body_image_breaking_bad_inception_male_in_blac_794b2742-a5c1-4ef7-bbf1-58d682b15184.png?width=1590&height=892

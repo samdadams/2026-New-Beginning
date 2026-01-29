@@ -1,0 +1,6 @@
+1. Invite the Holy Spirit in with a prayer. Use Christ’s vision. Notice your own emotions as listener and let all your own ideas go…. breathe.
+2. Invite the other to express…. Listen without judgment…. Listen to prompts from the Holy Spirit as to when to speak and when not to speak. The focus is not on words or correction but on loving and allowing. Be with… hear what is being expressed as your own unconscious, as this is what it is.
+3. Gently guide to the core emotion(s)… redirect back to these… allow these emotions space… slow things down…. Invite the Holy Spirit in again… allow time for release. Gently guide back to this if the other returns to the “story”.
+4. It may feel appropriate to ask what thoughts and beliefs are attached to the core emotions. Do not push for these or impose them… see what comes up from gentle asking, without judgment. Be curious and welcoming. This is our holy work together.
+5. Ask the other to join in asking for the Holy Spirit to show you both His interpretation. Allow time and space for this… ask the other to verbalise the Holy Spirit’s interpretation. It may come in words or in an energetic shift, or both.
+6. Celebrate this new interpretation… celebrate and show gratitude for this coming up and for the release. “Magnify” the loving interpretation, the gift, or the lesson, if this feels guided by the Holy Spirit.

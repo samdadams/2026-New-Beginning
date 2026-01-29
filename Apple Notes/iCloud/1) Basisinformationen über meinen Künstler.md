@@ -1,0 +1,1 @@
+(Künstler-)Name, Geburtsort, Alter, Bild)2) Musikgenre meines Künstlers4) Erfolge meines Künstlers5) Besonderes über meinen Künstler3) Bekannte Lieder meines Künstlers

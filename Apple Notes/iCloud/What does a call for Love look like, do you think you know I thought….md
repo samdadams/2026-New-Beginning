@@ -1,0 +1,3 @@
+Love, as a universal truth, beckons us to see beyond the illusions of separateness and embrace the oneness that unites all of existence. Each moment presents an opportunity to choose love over fear, to see with the eyes of compassion rather than judgment. In practicing love, we are called to forgive, to release grievances, and to extend kindness, recognising that everyone we encounter is a reflection of the same Source. By consciously choosing love in every situation, we align with our true nature and pave the way for healing, understanding, and a deeper connection with the world around us. And yet I ask you how do we really look at what seems to terrorise us and just overlook it? Will you join me in practicing and seeing a call for love as what it is?
+
+nyGskwbv7fnw

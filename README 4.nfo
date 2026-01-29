@@ -1,0 +1,17 @@
+Install
+	iZotope_VEA_v1_0_2.dmg
+Replace file from Intel Replace
+	/Library/Audio/Plug-Ins/VST3/VEA.vst3/Contents/Resources/iZVEA.bundle/Contents/MacOS/
+	/Library/Audio/Plug-Ins/Components/iZVEAAUHook.component/Contents/Resources/iZVEA.bundle/Contents/MacOS/
+To get AAX
+Copy
+/Library/Audio/Plug-Ins/Components/iZVEAAUHook.component/Contents/Resources/iZVEA.bundle
+to
+/Library/Application Support/Avid/Audio/Plug-Ins
+
+Open terminal
+
+sudo codesign --force --deep --sign - /Library/Audio/Plug-Ins/Components/iZVEAAUHook.component/Contents/Resources/iZVEA.bundle/Contents/MacOS/iZVEA
+sudo codesign --force --deep --sign - /Library/Audio/Plug-Ins/VST3/VEA.vst3/Contents/Resources/iZVEA.bundle/Contents/MacOS/iZVEA
+
+Done

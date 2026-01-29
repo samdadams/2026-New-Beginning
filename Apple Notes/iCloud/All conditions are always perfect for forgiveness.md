@@ -1,0 +1,1 @@
+# All conditions are always perfect for forgiveness

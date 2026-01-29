@@ -1,0 +1,5 @@
+- [ ] Outline next 7 days / 12 weeks 
+- [ ] Call hmrc
+- [ ] Change name of YouTube
+- [ ] Change the name of second YouTube channel 
+- [ ] Channel artwork change

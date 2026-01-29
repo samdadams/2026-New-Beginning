@@ -1,0 +1,496 @@
+{
+  "main": {
+    "id": "821f9058d9307497",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d7d51fd138b1c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8c06ddcb6e12696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Organisation"
+            }
+          },
+          {
+            "id": "0ddfaa5bc8008c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begin Again/30_Prompts.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30_Prompts"
+            }
+          },
+          {
+            "id": "c0c6099898b3458e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Organisation"
+            }
+          },
+          {
+            "id": "48cf0cfa1d6eebdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BMO/Profiles/BMO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BMO"
+            }
+          },
+          {
+            "id": "f8107dc23add51cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Organisation"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "888c4c32aae54ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fa3a709cc79bb8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trudy taking calls.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trudy taking calls"
+            }
+          },
+          {
+            "id": "28224f8c35605a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18-01-2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "18-01-2026"
+            }
+          },
+          {
+            "id": "d414d68f1e05e08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begin Again/10_Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "10_Projects"
+            }
+          },
+          {
+            "id": "4eb861346585262a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begin Again/20_Concepts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20_Concepts"
+            }
+          },
+          {
+            "id": "ab15a2538a9e229a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begin Again/30_Prompts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30_Prompts"
+            }
+          },
+          {
+            "id": "b43321fe72309a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begin Again/00_Inbox-Daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00_Inbox-Daily"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bcc89be6dd88263",
+    "type": "split",
+    "children": [
+      {
+        "id": "6204c70cd5bc2034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b44eb3b6b2a5494",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec69d8bd46f07085",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eec7bea95daa4bfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71030d8271d44c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "39a62d3580a904e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435385e8f3c7d6e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "e8558cad7c6ed4b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a9b9017a5aa7bf6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "690de1a5090065fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ec0a0b5de7e46d20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bmo-chatbot:BMO Chatbot": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "b43321fe72309a17",
+  "lastOpenFiles": [
+    "Organisation.md",
+    "Trudy taking calls.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Begin Again/30_Prompts.md",
+    "Begin Again/20_Concepts.md",
+    "Begin Again/10_Projects.md",
+    "Begin Again/00_Inbox-Daily.md",
+    "Constant Contact Webhook.md",
+    "18-01-2026.md",
+    "constant contact.md",
+    "Begin Again",
+    "BMO/Profiles/BMO.md",
+    "Apple Notes/iCloud/New Note.md",
+    "Recording 20260116100620.m4a",
+    "IMG_0016.png.md",
+    "IMG_0019.png.md",
+    "old images and files/New Note 3.png",
+    "Apple Notes/iCloud/New Note 6.md",
+    "Apple Notes/iCloud/Get gym card from other bag.md",
+    "Recording 20260116100635.m4a",
+    "old images and files/unknown.jpg",
+    "old images and files/3F2B7A46-566E-4EF4-8390-1DCF16D0AE87.jpg",
+    "old images and files",
+    "old images and files/today thoughts and to dos.md",
+    "old images and files/B47AE698-8E52-4D7F-A055-A3BD5B3B337A.jpeg",
+    "old images and files/DF2C9141-C089-4A66-9F2C-1E283E57F348.jpeg",
+    "old images and files/CD1B23C9-DA8F-421F-8057-7F6165E6CB48.jpg",
+    "old images and files/C84D5494-F9BD-4623-8987-AE70E4199B69.jpeg",
+    "old images and files/Drawing 1.png",
+    "old images and files/Drawing 2.png",
+    "old images and files/New Note 1.png",
+    "08-10-2023-MonthlyStatement.pdf",
+    "old images and files/To-khai-thi-thuc.pdf",
+    "Apple Notes/On My Mac/AhCrWwT35TL.md",
+    "Apple Notes/iCloud/Today 3.md",
+    "Apple Notes/iCloud/E260103GBR15105584474 Emailsamueldadams@gmail.com Date of birth28… 1.md",
+    "Apple Notes/iCloud/E260103GBR15105584474 Emailsamueldadams@gmail.com Date of birth28….md",
+    "Apple Notes/iCloud/php.md",
+    "Apple Notes/iCloud/open http127.0.0.18188 && python main.py  open comfui.md",
+    "Apple Notes/iCloud/I've been in the Beouty Industry approximatly 30 years and have tested….md",
+    "Apple Notes/iCloud/Here are the four questions Gabby Bernstein asks each morning as part….md",
+    "Image.heic",
+    "IMG_3073.heic",
+    "old images and files/Scan.pdf",
+    "StarlingStatement_06-12-2023_05-04-2024.csv"
+  ]
+}

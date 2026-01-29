@@ -1,0 +1,1 @@
+# Buy train tickets, fix phone, create thumbnails setup lives,airstart creating meditation and intro outro

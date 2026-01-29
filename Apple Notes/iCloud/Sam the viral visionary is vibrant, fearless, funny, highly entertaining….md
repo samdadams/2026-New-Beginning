@@ -1,0 +1,1 @@
+# Sam the viral visionary is vibrant, fearless, funny, highly entertaining and daily draws more and more views to his videos artistically crafting powerful state change videos that draw in millions daily and they love to join his subscriptions, thus he easily earns over £20k per month

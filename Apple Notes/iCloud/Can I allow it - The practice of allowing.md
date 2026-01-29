@@ -1,0 +1,1 @@
+Hi Nadia, since you said you were interested in community and this was recommended on a podcast i have been listening to about how to live together harmoniously s

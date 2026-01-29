@@ -1,0 +1,1 @@
+I feel lost, facing old emotion, scared of failure, in a space where its possible , old energy, reward

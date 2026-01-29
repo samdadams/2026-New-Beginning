@@ -1,0 +1,1 @@
+State of mind where you are no longer invested in thoughts about the body

@@ -1,0 +1,1 @@
+I am one with the infinite mind of God and the abundance of the Universe flows through me freely. I release any thoughts of lack or limitations and affirm that I am whole, perfect and complete. I am a unique expression of the infinite and I know everything I need for my success is already within me.

@@ -1,0 +1,2 @@
+I did notice that when typing i felt i needed to be cautious about what i said, kind of stepping on egg shells. 
+I realise i lost your trust before and i thought i could gain it back. But instead i think it’s best to just send you blessings and wish you all the best.
