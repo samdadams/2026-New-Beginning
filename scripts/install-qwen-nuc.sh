@@ -17,6 +17,11 @@ echo "=== Qwen3.5 NUC Setup ==="
 # 1. Install Ollama if not already present
 if ! command -v ollama &>/dev/null; then
   echo ">> Installing Ollama..."
+  # Ollama installer requires zstd
+  if ! command -v zstd &>/dev/null; then
+    echo ">> Installing zstd (required by Ollama installer)..."
+    sudo apt-get install -y zstd 2>/dev/null || sudo dnf install -y zstd 2>/dev/null || sudo pacman -S --noconfirm zstd 2>/dev/null || true
+  fi
   curl -fsSL https://ollama.com/install.sh | sh
 else
   echo ">> Ollama already installed: $(ollama --version)"
