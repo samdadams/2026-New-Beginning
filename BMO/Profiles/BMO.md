@@ -1,5 +1,5 @@
 ---
-model: models/gemini-3-flash-preview
+model: qwen3.5:35b-a3b-q4_K_M
 max_tokens: 4096
 temperature: 1
 enable_reference_current_note: true
@@ -20,7 +20,7 @@ systen_role: You are a helpful assistant.
 ollama_mirostat: 0
 ollama_mirostat_eta: 0.1
 ollama_mirostat_tau: 5
-ollama_num_ctx: 2048
+ollama_num_ctx: 8192
 ollama_num_gqa: .nan
 ollama_num_thread: .nan
 ollama_repeat_last_n: 64
